@@ -7,7 +7,7 @@ Olá, Eu sou o Hugo Torres 👋
 
 <div align="center">
   <a href="https://github.com/hugootorres">
-  <img height="44%" src="https://github-readme-stats.vercel.app/api?username=hugootorres&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=hugootorres&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugootorres&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
   <div style="display: inline_block"><br>
