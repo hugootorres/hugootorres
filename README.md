@@ -2,7 +2,8 @@ Olá, Eu sou o Hugo Torres 👋
 
 
 - 🔭 Hoje trabalho como Analista de T.I.
-- 🌱 Estudando Pós-Graduação em Data Science e Machine Learning
+- 🎓 Pós Graduado em Data Science, Machine Learning e Redes de Computadores
+- 🌱 Estudando Pós-Graduação em Segurança e Defesa Cibernética
 - 🤓 Codando algumas coisinhas em Python e HTML/CSS 
 
 <div align="center">
